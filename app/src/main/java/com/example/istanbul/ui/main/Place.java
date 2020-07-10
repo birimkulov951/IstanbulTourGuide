@@ -7,16 +7,18 @@ public class Place {
     private String mDistrict;
     private String mInformation;
     private String mAddress;
+    private String mGoogleGeo;
+    //private String mYandexGeo;
+    //private String m2GisGeo;
     private String mTelephone;
 
-
-    public Place(int mImageID, String mLocationName, String mAddress, String mInformation, String mClickableAddress, String mTelephone) {
+    public Place(int mImageID, String mPlaceName, String mDistrict, String mInformation, String mAddress, String mGoogleGeo) {
         this.mImageID = mImageID;
-        this.mPlaceName = mLocationName;
-        this.mDistrict = mAddress;
+        this.mPlaceName = mPlaceName;
+        this.mDistrict = mDistrict;
         this.mInformation = mInformation;
-        this.mAddress = mClickableAddress;
-        this.mTelephone = mTelephone;
+        this.mAddress = mAddress;
+        this.mGoogleGeo = mGoogleGeo;
     }
 
     public Place(String mPlaceName, String mDistrict, String mInformation) {
@@ -40,6 +42,8 @@ public class Place {
     public Place() {
     }
 
+
+
     public Place(int mImageID, String mPlaceName, String mDistrict, String mInformation, String mAddress) {
         this.mImageID = mImageID;
         this.mPlaceName = mPlaceName;
@@ -48,51 +52,59 @@ public class Place {
         this.mAddress = mAddress;
     }
 
-    public int getmImageID() {
+    public int getImageID() {
         return mImageID;
     }
 
-    public void setmImageID(int mImageID) {
+    public void setImageID(int mImageID) {
         this.mImageID = mImageID;
     }
 
-    public String getmPlaceName() {
+    public String getPlaceName() {
         return mPlaceName;
     }
 
-    public void setmPlaceName(String mPlaceName) {
+    public void setPlaceName(String mPlaceName) {
         this.mPlaceName = mPlaceName;
     }
 
-    public String getmDistrict() {
+    public String getDistrict() {
         return mDistrict;
     }
 
-    public void setmDistrict(String mDistrict) {
+    public void setDistrict(String mDistrict) {
         this.mDistrict = mDistrict;
     }
 
-    public String getmInformation() {
+    public String getInformation() {
         return mInformation;
     }
 
-    public void setmInformation(String mInformation) {
+    public void setInformation(String mInformation) {
         this.mInformation = mInformation;
     }
 
-    public String getmAddress() {
+    public String getAddress() {
         return mAddress;
     }
 
-    public void setmAddress(String mAddress) {
+    public void setAddress(String mAddress) {
         this.mAddress = mAddress;
     }
 
-    public String getmTelephone() {
+    public String getGoogleGeo() {
+        return mGoogleGeo;
+    }
+
+    public void setGoogleGeo(String mGoogleGeo) {
+        this.mGoogleGeo = mGoogleGeo;
+    }
+
+    public String getTelephone() {
         return mTelephone;
     }
 
-    public void setmTelephone(String mTelephone) {
+    public void setTelephone(String mTelephone) {
         this.mTelephone = mTelephone;
     }
 }
