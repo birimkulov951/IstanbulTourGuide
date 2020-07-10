@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Istanbul Tour Guide</string>
+    <string name="tab_text_1">Top Places</string>
+    <string name="tab_text_2">Hotels</string>
+    <string name="tab_text_3">Restaurants</string>
+    <string name="tab_text_4">Monuments</string>
+
+    <string name="topPlaces1">Hagia Sophia</string>
+    <string name="topPlaces1District">Sultan Ahmet</string>
+    <string name="topPlaces1Info">The Hagia Sophia is a masterwork of Roman engineering, with its massive dome (102 feet or 31 meters in diameter) that covers what was for over 1000 years the largest enclosed space in the world. Hagia Sophia is the Greek term for Holy Wisdom and refers to Jesus Christ, the Holy Trinity’s second person. Constructed between 532 and 537, on the orders of the Byzantine Emperor Justinian, the structure was an Eastern Orthodox cathedral until 1453, except for about 60 years in the 1200s when it served as a Roman Catholic cathedral. In 1453, Ottoman Turks captured Constantinople and converted the edifice into a mosque, removing or plastering over many Christian relics and replacing them with Islamic features. The building closed in 1931, and the Republic of Turkey re-opened it as a museum in 1935. Visitors can go through the Imperial Gate to the central nave and look up to see the dome’s majestic interior with its mosaic-covered ceiling. Marble on the walls in the main nave extends to the gallery’s upper reaches, and the inner narthex and side naves have walls entirely covered with marble. The costly marbles of many different colors, selected exclusively for the Hagia Sophia, came from various areas of the empire. In the Hagia Sophia courtyard is a Fountain of Purification with a Greek inscription in palindrome form that translates, “Wash your sin not only your face.” Built in 1739, the Hagia Sophia Library contains ancient Turkish tiles, and the engraved, wooden bookshelves hold historical objects as well as books. Through the years, the church suffered damage from earthquakes, fires and riots, making many repairs and restorations necessary, but it remains a beautiful building that some people call the world’s eighth wonder.</string>
+    <string name="topPlaces1Address">Ayasofya Meydanı No:1</string>
+
+    <string name="topPlaces2">Blue Mosque</string>
+    <string name="topPlaces2District">Sultan Ahmet</string>
+    <string name="topPlaces2Info">The Blue Mosque, built in the early 17th century, remains an active house of worship today. This means visitors need to time their visits carefully, as the mosque is closed to sightseers during the five daily prayer times for Muslims. All visitors must remove their shoes and women must cover their hair. This is a small price to pay for seeing its priceless treasures that include 20,000 ceramic tiles in various tulip designs and 200 stained glass windows, all with intricate designs. The mosque, built by Sultan Ahmet, takes its name from the blue tiles on the dome and the upper levels of the interior.</string>
+    <string name="topPlaces2Address">address 1</string>
+
+    <string name="topPlaces3">Topkapı Palace</string>
+    <string name="topPlaces3District">Cankurtaran</string>
+    <string name="topPlaces3Info">Topkapi Palace is one of the must-see attractions in Istanbul that combines history and stunning scenery in an experience that is not to be rushed. For almost four centuries, the opulent Topkapi Palace served as the official residence of the sultans who ruled the Ottoman Empire. It is one of the world’s largest extant palace. Sultan Mehmed II started work on the palace shortly after the conquest of Constantinople in 1453 and lived here until his death in 1481. In 1924, the palace became a museum that exhibits an extensive collection of art, porcelain, jewelry, manuscripts and other treasures of the Ottoman Empire. Important artifacts include the jewel-encrusted Topkapi dagger and the 86-carat Spoonmaker’s Diamond. The palace is also home to venerated Islamic relics, including the Prophet Mohammed’s sword and cloak. Most of the stunning complex is open to the public. The Ottoman palace has four primary courtyards and several outbuildings. Known as the Janissaries Court, the first courtyard is where elite palace soldiers stood guard. The square contains a magnificent fountain and the Byzantine church of Hagia Irene, which Emperor Justinian constructed in the 548. The church survived because it was used as a storehouse and imperial armory by the Ottomans. The second courtyard is a lush green space encompassed by the former imperial harem and the Tower of Justice as well as a hospital and kitchens, which prepared thousands of meals each day. Suleiman the Magnificent constructed the entry gate. The third courtyard contains the treasury and the library of Ahmed III. Entry to the third courtyard was strictly regulated and off-limits to outsiders. The fourth courtyard served as the sultan’s inner sanctum. Known as the Tulip Garden, the buildings are adorned with mother-of-pearl, tortoise shell inlays and exquisite blue-and-white Iznik tiles. Other architectural highlights include marble staircases and a reflecting pool.</string>
+    <string name="topPlaces3Address">address 2</string>
+
+    <string name="topPlaces4">Grand Bazaar</string>
+    <string name="topPlaces4District">Eminönü Square</string>
+    <string name="topPlaces4Info">Travelers who love to shop shouldn’t miss out on a visit to the Grand Bazaar, with 5,000 shops making it one of the largest indoor marketplaces in the world. Receiving more than a quarter-million visitors a day, the bazaar features such items as jewelry, carpets that may or may not fly, spices, antiques and hand-painted ceramics. The bazaar dates back to 1461 and today is home to two mosques, four fountains, two hammams or steam baths, and the Cevahir Bedesten, where the rarest and most valuable items have been found traditionally. Here is where shoppers will find old coins, jewelry with precious gems, inlaid weapons and antique furniture.</string>
+    <string name="topPlaces4Address">address 2</string>
+
+    <string name="topPlaces5">Süleymaniye Mosque</string>
+    <string name="topPlaces5District">Süleymaniye Mah.</string>
+    <string name="topPlaces5Info">Visitors to the Suleymaniye Mosque say its beauty and peacefulness gives them an inspiring sense of spirituality. Located on the Third Hill of Istanbul, the mosque was ordered built in 1550 by the Sultan Suleyman the Magnificent. The mosque, indeed, is magnificent, blending the best of Islamic and Byzantine architecture. The mosque was extensively damaged over the years, including during World War I when a fire broke out while the gardens were used as a weapons depot. It was restored in the mid-20th century. The mosque is marked by four minarets, indicating it was built by a sultan. When it was built, the dome was the highest in the Ottoman Empire.</string>
+    <string name="topPlaces5Address">address 2</string>
+
+    <string name="topPlaces6">Dolmabahçe Palace</string>
+    <string name="topPlaces6District">Vişnezade</string>
+    <string name="topPlaces6Info">Luxurious, plush and beautiful are just some of the adjectives used to describe the Dolmabahce Palace, which has been compared to the Palace of Versailles. Built in the 19th century using 14 tons of gold leaf, Turkey’s most glamorous palace blends traditional Ottoman architecture with the European styles of Neoclassical, Baroque and Rococo. Home to six sultans from 1856 to 1924, it also is home to the world’s largest Bohemian crystal chandelier, a gift from Queen Victoria. The Dolmabahce Palace’s setting is stunning: It was built along the Bosphorus coastline.</string>
+    <string name="topPlaces6Address">address 2</string>
+
+    <string name="topPlaces7">Basilica Cistern</string>
+    <string name="topPlaces7District">Sultan Ahmet</string>
+    <string name="topPlaces7Info">The Basilica Cistern has been providing Istanbul residents with water since the sixth century when it was ordered built by the Roman Emperor Justinian I. A visit leaves travelers raving about the technology the ancient Romans used to build this architectural wonder that was very advanced for its day. The underground cistern, just a few steps away from the Blue Mosque, was built on the site of a basilica that was constructed in the third century. Known as the Sunken Palace, the cistern can hold up to 2.8 million cubic feet of water. The cistern is one of the locations used in From Russia with Love, a James Bond thriller filmed in 1963.</string>
+    <string name="topPlaces7Address">address 2</string>
+
+
+</resources>
