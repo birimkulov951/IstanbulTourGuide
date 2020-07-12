@@ -83,13 +83,36 @@
           android:background="@drawable/baseline_location_on_black_24"
           android:visibility="gone"/>
       <TextView
+          android:id="@+id/place_address"
           android:layout_marginStart="10dp"
           android:layout_marginTop="16dp"
-          android:id="@+id/place_address"
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
           android:text="Location"
+          android:visibility="gone"
+          android:textColor="@android:color/holo_blue_light"/>
+   </LinearLayout>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal">
+      <ImageView
+          android:id="@+id/call_image"
+          android:layout_marginTop="16dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:background="@drawable/baseline_call_black_24"
           android:visibility="gone"/>
+      <TextView
+          android:id="@+id/place_call_number"
+          android:layout_marginStart="10dp"
+          android:layout_marginTop="16dp"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Call Number"
+          android:visibility="gone"
+          android:textColor="@android:color/holo_blue_light"/>
    </LinearLayout>
 
 </LinearLayout>

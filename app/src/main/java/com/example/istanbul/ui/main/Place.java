@@ -8,8 +8,6 @@ public class Place {
     private String mInformation;
     private String mAddress;
     private String mGoogleGeo;
-    //private String mYandexGeo;
-    //private String m2GisGeo;
     private String mTelephone;
 
     public Place(int mImageID, String mPlaceName, String mDistrict, String mInformation, String mAddress, String mGoogleGeo) {
@@ -42,7 +40,15 @@ public class Place {
     public Place() {
     }
 
-
+    public Place(int mImageID, String mPlaceName, String mDistrict, String mInformation, String mAddress, String mGoogleGeo, String mTelephone) {
+        this.mImageID = mImageID;
+        this.mPlaceName = mPlaceName;
+        this.mDistrict = mDistrict;
+        this.mInformation = mInformation;
+        this.mAddress = mAddress;
+        this.mGoogleGeo = mGoogleGeo;
+        this.mTelephone = mTelephone;
+    }
 
     public Place(int mImageID, String mPlaceName, String mDistrict, String mInformation, String mAddress) {
         this.mImageID = mImageID;

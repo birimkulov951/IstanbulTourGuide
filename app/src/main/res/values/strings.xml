@@ -7,47 +7,208 @@
 
     <string name="topPlaces1">Hagia Sophia</string>
     <string name="topPlaces1District">Sultan Ahmet</string>
-    <string name="topPlaces1Info">The Hagia Sophia is a masterwork of Roman engineering, with its massive dome (102 feet or 31 meters in diameter) that covers what was for over 1000 years the largest enclosed space in the world. Hagia Sophia is the Greek term for Holy Wisdom and refers to Jesus Christ, the Holy Trinity’s second person. Constructed between 532 and 537, on the orders of the Byzantine Emperor Justinian, the structure was an Eastern Orthodox cathedral until 1453, except for about 60 years in the 1200s when it served as a Roman Catholic cathedral. In 1453, Ottoman Turks captured Constantinople and converted the edifice into a mosque, removing or plastering over many Christian relics and replacing them with Islamic features. The building closed in 1931, and the Republic of Turkey re-opened it as a museum in 1935. Visitors can go through the Imperial Gate to the central nave and look up to see the dome’s majestic interior with its mosaic-covered ceiling. Marble on the walls in the main nave extends to the gallery’s upper reaches, and the inner narthex and side naves have walls entirely covered with marble. The costly marbles of many different colors, selected exclusively for the Hagia Sophia, came from various areas of the empire. In the Hagia Sophia courtyard is a Fountain of Purification with a Greek inscription in palindrome form that translates, “Wash your sin not only your face.” Built in 1739, the Hagia Sophia Library contains ancient Turkish tiles, and the engraved, wooden bookshelves hold historical objects as well as books. Through the years, the church suffered damage from earthquakes, fires and riots, making many repairs and restorations necessary, but it remains a beautiful building that some people call the world’s eighth wonder.</string>
+    <string name="topPlaces1Info">The Hagia Sophia is a masterwork of Roman engineering, with its massive dome (102 feet or 31 meters in diameter) that covers what was for over 1000 years the largest enclosed space in the world. Hagia Sophia is the Greek term for Holy Wisdom and refers to Jesus Christ, the Holy Trinity’s second person. Constructed between 532 and 537, on the orders of the Byzantine Emperor Justinian, the structure was an Eastern Orthodox cathedral until 1453,
+        except for about 60 years in the 1200s when it served as a Roman Catholic cathedral. In 1453, Ottoman Turks captured Constantinople and converted the edifice into a mosque, removing or plastering over many Christian relics and replacing them with Islamic features. The building closed in 1931, and the Republic of Turkey re-opened it as a museum in 1935. Visitors can go through the Imperial Gate to the central nave and look up to see the dome’s majestic interior with its mosaic-covered ceiling.
+        Marble on the walls in the main nave extends to the gallery’s upper reaches, and the inner narthex and side naves have walls entirely covered with marble. The costly marbles of many different colors, selected exclusively for the Hagia Sophia, came from various areas of the empire. In the Hagia Sophia courtyard is a Fountain of Purification with a Greek inscription in palindrome form that translates, “Wash your sin not only your face.”
+        Built in 1739, the Hagia Sophia Library contains ancient Turkish tiles, and the engraved, wooden bookshelves hold historical objects as well as books. Through the years, the church suffered damage from earthquakes, fires and riots, making many repairs and restorations necessary, but it remains a beautiful building that some people call the world’s eighth wonder.</string>
     <string name="topPlaces1Address">Sultan Ahmet, Fatih/İstanbul</string>
     <string name="topPlaces1Google">geo:41.008678, 28.980340</string>
 
 
     <string name="topPlaces2">Blue Mosque</string>
     <string name="topPlaces2District">Sultan Ahmet</string>
-    <string name="topPlaces2Info">The Blue Mosque, built in the early 17th century, remains an active house of worship today. This means visitors need to time their visits carefully, as the mosque is closed to sightseers during the five daily prayer times for Muslims. All visitors must remove their shoes and women must cover their hair. This is a small price to pay for seeing its priceless treasures that include 20,000 ceramic tiles in various tulip designs and 200 stained glass windows, all with intricate designs. The mosque, built by Sultan Ahmet, takes its name from the blue tiles on the dome and the upper levels of the interior.</string>
+    <string name="topPlaces2Info">The Blue Mosque, built in the early 17th century, remains an active house of worship today. This means visitors need to time their visits carefully, as the mosque is closed to sightseers during the five daily prayer times for Muslims. All visitors must remove their shoes and women must cover their hair. This is a small price to pay for seeing its priceless treasures that include 20,000 ceramic tiles in various tulip designs and 200 stained glass windows, all with intricate designs.
+        The mosque, built by Sultan Ahmet, takes its name from the blue tiles on the dome and the upper levels of the interior.</string>
     <string name="topPlaces2Address">Sultan Ahmet, Fatih/İstanbul</string>
     <string name="topPlaces2Google">geo:41.005616, 28.977125</string>
 
 
     <string name="topPlaces3">Topkapı Palace</string>
     <string name="topPlaces3District">Cankurtaran</string>
-    <string name="topPlaces3Info">Topkapi Palace is one of the must-see attractions in Istanbul that combines history and stunning scenery in an experience that is not to be rushed. For almost four centuries, the opulent Topkapi Palace served as the official residence of the sultans who ruled the Ottoman Empire. It is one of the world’s largest extant palace. Sultan Mehmed II started work on the palace shortly after the conquest of Constantinople in 1453 and lived here until his death in 1481. In 1924, the palace became a museum that exhibits an extensive collection of art, porcelain, jewelry, manuscripts and other treasures of the Ottoman Empire. Important artifacts include the jewel-encrusted Topkapi dagger and the 86-carat Spoonmaker’s Diamond. The palace is also home to venerated Islamic relics, including the Prophet Mohammed’s sword and cloak. Most of the stunning complex is open to the public. The Ottoman palace has four primary courtyards and several outbuildings. Known as the Janissaries Court, the first courtyard is where elite palace soldiers stood guard. The square contains a magnificent fountain and the Byzantine church of Hagia Irene, which Emperor Justinian constructed in the 548. The church survived because it was used as a storehouse and imperial armory by the Ottomans. The second courtyard is a lush green space encompassed by the former imperial harem and the Tower of Justice as well as a hospital and kitchens, which prepared thousands of meals each day. Suleiman the Magnificent constructed the entry gate. The third courtyard contains the treasury and the library of Ahmed III. Entry to the third courtyard was strictly regulated and off-limits to outsiders. The fourth courtyard served as the sultan’s inner sanctum. Known as the Tulip Garden, the buildings are adorned with mother-of-pearl, tortoise shell inlays and exquisite blue-and-white Iznik tiles. Other architectural highlights include marble staircases and a reflecting pool.</string>
+    <string name="topPlaces3Info">Topkapi Palace is one of the must-see attractions in Istanbul that combines history and stunning scenery in an experience that is not to be rushed. For almost four centuries, the opulent Topkapi Palace served as the official residence of the sultans who ruled the Ottoman Empire. It is one of the world’s largest extant palace. Sultan Mehmed II started work on the palace shortly after the conquest of Constantinople in 1453 and lived here until his death in 1481. In 1924, the palace became a museum that exhibits an extensive collection of art, porcelain,
+        jewelry, manuscripts and other treasures of the Ottoman Empire. Important artifacts include the jewel-encrusted Topkapi dagger and the 86-carat Spoonmaker’s Diamond. The palace is also home to venerated Islamic relics, including the Prophet Mohammed’s sword and cloak. Most of the stunning complex is open to the public. The Ottoman palace has four primary courtyards and several outbuildings.
+        Known as the Janissaries Court, the first courtyard is where elite palace soldiers stood guard. The square contains a magnificent fountain and the Byzantine church of Hagia Irene, which Emperor Justinian constructed in the 548. The church survived because it was used as a storehouse and imperial armory by the Ottomans. The second courtyard is a lush green space encompassed by the former imperial harem and the Tower of Justice as well as a hospital and kitchens, which prepared thousands of meals each day. Suleiman the Magnificent constructed the entry gate. The third courtyard
+        contains the treasury and the library of Ahmed III. Entry to the third courtyard was strictly regulated and off-limits to outsiders. The fourth courtyard served as the sultan’s inner sanctum. Known as the Tulip Garden, the buildings are adorned with mother-of-pearl, tortoise shell inlays and exquisite blue-and-white Iznik tiles. Other architectural highlights include marble staircases and a reflecting pool.</string>
     <string name="topPlaces3Address">Cankurtaran, Fatih/İstanbul</string>
     <string name="topPlaces3Google">geo:41.011770, 28.983905</string>
 
     <string name="topPlaces4">Grand Bazaar</string>
     <string name="topPlaces4District">Eminönü Square</string>
-    <string name="topPlaces4Info">Travelers who love to shop shouldn’t miss out on a visit to the Grand Bazaar, with 5,000 shops making it one of the largest indoor marketplaces in the world. Receiving more than a quarter-million visitors a day, the bazaar features such items as jewelry, carpets that may or may not fly, spices, antiques and hand-painted ceramics. The bazaar dates back to 1461 and today is home to two mosques, four fountains, two hammams or steam baths, and the Cevahir Bedesten, where the rarest and most valuable items have been found traditionally. Here is where shoppers will find old coins, jewelry with precious gems, inlaid weapons and antique furniture.</string>
+    <string name="topPlaces4Info">Travelers who love to shop shouldn’t miss out on a visit to the Grand Bazaar, with 5,000 shops making it one of the largest indoor marketplaces in the world. Receiving more than a quarter-million visitors a day, the bazaar features such items as jewelry, carpets that may or may not fly, spices, antiques and hand-painted ceramics. The bazaar dates back to 1461 and today is home to two mosques, four fountains, two hammams or steam baths, and the Cevahir Bedesten, where the rarest and most valuable items have been found traditionally.
+        Here is where shoppers will find old coins, jewelry with precious gems, inlaid weapons and antique furniture.</string>
     <string name="topPlaces4Address">Hobyar, Fatih/İstanbul</string>
     <string name="topPlaces4Google">geo:41.017244, 28.974280</string>
 
     <string name="topPlaces5">Süleymaniye Mosque</string>
     <string name="topPlaces5District">Süleymaniye Mah.</string>
-    <string name="topPlaces5Info">Visitors to the Suleymaniye Mosque say its beauty and peacefulness gives them an inspiring sense of spirituality. Located on the Third Hill of Istanbul, the mosque was ordered built in 1550 by the Sultan Suleyman the Magnificent. The mosque, indeed, is magnificent, blending the best of Islamic and Byzantine architecture. The mosque was extensively damaged over the years, including during World War I when a fire broke out while the gardens were used as a weapons depot. It was restored in the mid-20th century. The mosque is marked by four minarets, indicating it was built by a sultan. When it was built, the dome was the highest in the Ottoman Empire.</string>
+    <string name="topPlaces5Info">Visitors to the Suleymaniye Mosque say its beauty and peacefulness gives them an inspiring sense of spirituality. Located on the Third Hill of Istanbul, the mosque was ordered built in 1550 by the Sultan Suleyman the Magnificent. The mosque, indeed, is magnificent, blending the best of Islamic and Byzantine architecture. The mosque was extensively damaged over the years, including during World War I when a fire broke out while the gardens were used as a weapons depot. It was restored in the mid-20th century. The mosque is marked by four minarets,
+        indicating it was built by a sultan. When it was built, the dome was the highest in the Ottoman Empire.</string>
     <string name="topPlaces5Address">Süleymaniye Mah., 34116 Fatih/İstanbul</string>
     <string name="topPlaces5Google">geo:41.015821, 28.964056</string>
 
     <string name="topPlaces6">Dolmabahçe Palace</string>
     <string name="topPlaces6District">Vişnezade</string>
-    <string name="topPlaces6Info">Luxurious, plush and beautiful are just some of the adjectives used to describe the Dolmabahce Palace, which has been compared to the Palace of Versailles. Built in the 19th century using 14 tons of gold leaf, Turkey’s most glamorous palace blends traditional Ottoman architecture with the European styles of Neoclassical, Baroque and Rococo. Home to six sultans from 1856 to 1924, it also is home to the world’s largest Bohemian crystal chandelier, a gift from Queen Victoria. The Dolmabahce Palace’s setting is stunning: It was built along the Bosphorus coastline.</string>
+    <string name="topPlaces6Info">Luxurious, plush and beautiful are just some of the adjectives used to describe the Dolmabahce Palace, which has been compared to the Palace of Versailles. Built in the 19th century using 14 tons of gold leaf, Turkey’s most glamorous palace blends traditional Ottoman architecture with the European styles of Neoclassical, Baroque and Rococo. Home to six sultans from 1856 to 1924, it also is home to the world’s largest Bohemian crystal chandelier, a gift from Queen Victoria.
+        The Dolmabahce Palace’s setting is stunning: It was built along the Bosphorus coastline.</string>
     <string name="topPlaces6Address">Vişnezade, Dolmabahçe Cd., 34357 Beşiktaş/İstanbul</string>
     <string name="topPlaces6Google">geo:41.039219, 29.000761</string>
 
     <string name="topPlaces7">Basilica Cistern</string>
     <string name="topPlaces7District">Sultan Ahmet</string>
-    <string name="topPlaces7Info">The Basilica Cistern has been providing Istanbul residents with water since the sixth century when it was ordered built by the Roman Emperor Justinian I. A visit leaves travelers raving about the technology the ancient Romans used to build this architectural wonder that was very advanced for its day. The underground cistern, just a few steps away from the Blue Mosque, was built on the site of a basilica that was constructed in the third century. Known as the Sunken Palace, the cistern can hold up to 2.8 million cubic feet of water. The cistern is one of the locations used in From Russia with Love, a James Bond thriller filmed in 1963.</string>
+    <string name="topPlaces7Info">The Basilica Cistern has been providing Istanbul residents with water since the sixth century when it was ordered built by the Roman Emperor Justinian I. A visit leaves travelers raving about the technology the ancient Romans used to build this architectural wonder that was very advanced for its day. The underground cistern, just a few steps away from the Blue Mosque, was built on the site of a basilica that was constructed in the third century. Known as the Sunken Palace,
+        the cistern can hold up to 2.8 million cubic feet of water. The cistern is one of the locations
+        used in From Russia with Love, a James Bond thriller filmed in 1963.</string>
     <string name="topPlaces7Address">Alemdar, Yerebatan Cd., 34110 Fatih/İstanbul</string>
     <string name="topPlaces7Google">geo:41.008439, 28.977621</string>
 
+
+
+    <string name="hotels1">Sumahan on the Water</string>
+    <string name="hotels1District">Cengelkoy</string>
+    <string name="hotels1Info">Formerly an Ottoman-era distillery, this place was converted into an award-winning hotel by its discerning Turkish-American owners. As the hotel is situated on the Asian side of the Bosphorus Strait, guests arrive from Europe in the hotel’s own launch. There can be few finer ways to begin a visit to Istanbul.</string>
+    <string name="hotels1Address">Kuleli Cad. No:51 Cengelkoy, Istanbul, 34684, Turkey.</string>
+    <string name="hotels1Google">geo:41.055384, 29.052143</string>
+    <string name="hotels1Call">00 90 216 42 28 000</string>
+
+    <string name="hotels2">Georges Hotel Galata</string>
+    <string name="hotels2District">Galata Beyoglu</string>
+    <string name="hotels2Info">The epitome of the new wave of hip boutique hotels to open in the city\'s old European quarter, Georges makes the most of the beautiful, 19th-century apartment building from which it is fashioned, yet knows exactly what its discerning clientele want from their accommodation in this vibrant city.</string>
+    <string name="hotels2Address">Serdar-i Ekrem Sok No:24 Galata Beyoglu, Istanbul, 34420, Turkey.</string>
+    <string name="hotels2Google">geo:41.026913, 28.975539</string>
+    <string name="hotels2Call">00 90 212 244 2423</string>
+
+    <string name="hotels3">Shangri-La Bosphorus, Istanbul</string>
+    <string name="hotels3District">Besiktas</string>
+    <string name="hotels3Info">This abandoned former tobacco warehouse which dates back to the Roaring Twenties, has been given a vibrant lease of life as one of Istanbul\'s most prestigious hotels. Virtually hugging the waterfront on the European side of the historic Bosphorus Strait, the views from front rooms and the restaurant terrace are superb.</string>
+    <string name="hotels3Address">Sinan Pasa Mah. Hayrettin Iskelesi Sok. No:1 Besiktas, Istanbul, 34353, Turkey.</string>
+    <string name="hotels3Google">geo:41.040528, 29.005279</string>
+    <string name="hotels3Call">00 90 212 275 8888</string>
+
+    <string name="hotels4">Pera Palace Hotel</string>
+    <string name="hotels4District">Tepebaşı</string>
+    <string name="hotels4Info">They don’t come more history-filled or atmospheric than this, the hotel built by Belgian entrepreneur Georges Nagelmackers to accommodate travellers arriving on his Orient Express train from Paris. Guests here have included everyone from Ernest Hemingway and Agatha Christie to Atatürk and Greta Garbo. </string>
+<string name="hotels4Address">Meşrutiyet Caddesi 52, Tepebaşı, Beyoğlu 34430 Istanbul, Turkey.</string>
+    <string name="hotels4Google">geo:41.030964, 28.973553</string>
+    <string name="hotels4Call">00 90 212 377 4000</string>
+
+    <string name="hotels5">Tomtom Suites</string>
+    <string name="hotels5District">Beyoglu</string>
+    <string name="hotels5Info">Very few visitors to the exotic, \'Oriental\' city of Istanbul would expect to stay in a chic hotel fashioned from a former Franciscan nunnery. But Tomtom Suites, like the city in which it is located, is full of surprises – not least because it offers great value for such stylish accommodation.</string>
+    <string name="hotels5Address">Boğazkesen Caddesi. Tomtom Kaptan Sokak No.18 Beyoglu, Istanbul, 34413, Turkey.</string>
+    <string name="hotels5Google">geo:41.030306, 28.977681</string>
+    <string name="hotels5Call">00 90 212 292 4949</string>
+
+    <string name="hotels6">Four Seasons Hotel Istanbul at Sultanahmet</string>
+    <string name="hotels6District">Sultanahmet</string>
+    <string name="hotels6Info">This luxurious hotel is actually fashioned from a late-Ottoman era prison once used to incarcerate writers, artists and other dissidents, though it has been so brilliantly converted you\'d never guess. Its location in the heart of the city means it\'s a stone\'s throw from many of Istanbul\'s most famous sights.</string>
+    <string name="hotels6Address">Tevkifhane Sok., No:1, Sultanahmet, Istanbul, 34110, Turkey.</string>
+    <string name="hotels6Google">geo:41.006910, 28.980394</string>
+    <string name="hotels6Call">00 90 212 638 8200</string>
+
+    <string name="hotels7">Romance Istanbul Hotel</string>
+    <string name="hotels7District">Sirkeci</string>
+    <string name="hotels7Info">Romance Istanbul has been transformed from a run of the mill establishment to one of the most luxurious hotels in bustling Sirkeci, right in the heart of the old city. This hotel does not pander to the hip and ephemeral but trades instead on good, old-fashioned comfort and top-quality service.</string>
+    <string name="hotels7Address">Hüdavendigar Cad. No: 5 Sirkeci, Istanbul, 34110, Turkey.</string>
+    <string name="hotels7Google">geo:41.012823, 28.978234</string>
+    <string name="hotels7Call">00 90 212 512 8676</string>
+
+
+
+    <string name="restaurants1">Râna Meyhane</string>
+    <string name="restaurants1District">Beyoğlu</string>
+    <string name="restaurants1Info">At Râna, formerly known as Topaz, the best of Mediterranean and Ottoman cuisine come together. Overlooking the Bosphorus, the serene atmosphere of Râna recalls the stone it is named after in its geometric design that is complemented by modern decor. The restaurant offers two tasting menus: modern and traditional.
+        The first comprises innovative dishes like goose liver terrine with cranberry marmalade and walnut, while the latter includes classics like Turkish ravioli with beef and strained yogurt. Râna’s wine list has acquired national recognition with an award from local magazine Gusto and the staff is happy to provide pairings on request.</string>
+    <string name="restaurants1Address">Ömer Avni, İnönü Cd. No:50, 34427 Beyoğlu/İstanbul, Türkiye</string>
+    <string name="restaurants1Google">geo:41.037346, 28.993123</string>
+    <string name="restaurants1Call">00 90 212 249 10 01</string>
+
+    <string name="restaurants2">Banyan</string>
+    <string name="restaurants2District">Ortaköy </string>
+    <string name="restaurants2Info">With Istanbul wedged between Eastern and Western influences, Banyan’s motto of “food for the soul” describes the Asian fusion fare it serves. Healthy cuisine with Asian roots is savored on the top floor of a historical building, offering striking views of the city below. Dishes like Sichuan pepper steak,
+        duck satay and dim sum are just a few of the options on order to be enjoyed with tea, fresh juice or a cocktail. Whether dining indoors or outdoors, the lights of surrounding Istanbul are sure to dazzle from this local favorite.</string>
+    <string name="restaurants2Address">Muallim Naci Cad. Salhane Sok. No:3 (Ortaköy Iskele yanı)</string>
+    <string name="restaurants2Google">geo:41.048068, 29.025253</string>
+    <string name="restaurants2Call">00 90212 259 90 60</string>
+
+    <string name="restaurants3">Maiden’s Tower</string>
+    <string name="restaurants3District">Üsküdar</string>
+    <string name="restaurants3Info">The signature of Istanbul, Maiden’s Tower stands proudly in the intersection of the Bosphorus where the two continents of Asia and Europe meet. The tower’s history stretches back 2,500 years, with a wealth of legends surrounding its place in this extraordinary city. Now the tower serves as a café and restaurant,
+        attracting guests from near and far for a romantic meal, business engagement, or even a wedding. With delicious breakfasts and international lunch and dinner menus, Maiden’s Tower can be enjoyed at any time of day. Live music and a friendly mood will accompany your meal, and with the Bosphorus on all sides, the views are magical. Indoors in the winter or outdoors in the summer, for a truly bespoke experience, ask for the exclusive booking options and enjoy Maiden’s Tower in unique style.</string>
+    <string name="restaurants3Address">Salacak Mevkii Üsküdar 34668</string>
+    <string name="restaurants3Google">geo:41.021204, 29.006785</string>
+    <string name="restaurants3Call">00 90 216 342 47 47</string>
+
+    <string name="restaurants4">Asitane</string>
+    <string name="restaurants4District">Edirnekapı</string>
+    <string name="restaurants4Info">Eating here is a live history class. Overlooking the Golden Horn, Asitane Restaurant is perched in the foothills of Edirnekapı, considered by many to be one of the most important areas of historical Istanbul. The restaurant lies in the shadow of the mighty Chora Church, famous for its mosaics and one of the most revered and well preserved buildings of the Byzantine era. Asitane opened its doors in 1991, serving dishes reflecting the eclectic nature of the Turco-Ottoman
+        neighborhood. Asitane was one of the many names given to Istanbul throughout the era of the Ottoman Empire, and today Asitane Restaurant brings to life the tastes of a glorious bygone era. After 20 years in hospitality, Asitane now boasts an impressive archive comprising over 450 forgotten sweet and savory recipes, prepared according to 500-year-old cooking methods.</string>
+    <string name="restaurants4Address">Kariye Camii Sokak No:6 34240 Edirnekapı / İstanbul, Turkey</string>
+    <string name="restaurants4Google">geo:41.031044, 28.939118</string>
+    <string name="restaurants4Call">00 90 212 635 7997</string>
+
+    <string name="restaurants5">16 Roof</string>
+    <string name="restaurants5District">Besiktas</string>
+    <string name="restaurants5Info">Situated atop the Swissôtel, 16 Roof restaurant boasts stunning views of the Bosphorus. The interior is modern and minimalist with soft blue tones that reflect the hues of the river itself. The chef produces contemporary world cuisine with unique flavors as well as desserts; from refreshing lemongrass and ginger sorbet to mouthwatering caramelized banana and cinnamon tart with caramel ice cream. Each course of the tasting menu is complemented by an appropriate Turkish wine.
+        There is also a private section with a capacity for 12 guests should you desire a more intimate gathering.</string>
+    <string name="restaurants5Address">Visnezade MAah. Acisu Sok. NO. 19 Macka, Besiktas Istanbul, Turkey </string>
+    <string name="restaurants5Google">geo:41.042536, 28.997211</string>
+    <string name="restaurants5Call">00 90 212 326 11 00</string>
+
+
+    <string name="restaurants6">Sunset Grill and Bar</string>
+    <string name="restaurants6District">Beşiktaş</string>
+    <string name="restaurants6Info">Located on a hilltop in Ulus Park with spectacular views of the Bosphorus Bridge and Asian shoreline, Sunset Grill and Bar is the ultimate romantic restaurant in Istanbul. There is a wide-ranging menu of Turkish and international cuisine with a strong Japanese influence. A sushi bar opened here in 2000, in 2006 Japanese Master Chef Hiroki Takemura joined Sunset Grill and Bar, introducing a selection of new Japanese cuisine, and in 2015 Director of Culinary Innovation Chef
+        Fabrice Canelle joined the team, bringing the finest examples of Mediterranean cuisine to the menu. The cellar includes some of the finest rare wines in the world, from Petrus to La Tache, Château Latour to Sassiccaia, and Opus One to Château d’Yquem. Sunset Grill and Bar has been named as one of the best restaurants in Europe by Zagat, and Time Out Istanbul declared the restaurant of the best in Istanbul.</string>
+    <string name="restaurants6Address">Kuruçeşme Mah. Yol Sok. No:2 Ulus Park, 34345, Ulus, Beşiktaş, İstanbul</string>
+    <string name="restaurants6Google">geo:41.064100, 29.033202</string>
+    <string name="restaurants6Call">00 90 212 287 03 57</string>
+
+    <string name="restaurants7">Mikla</string>
+    <string name="restaurants7District">Beyoğlu</string>
+    <string name="restaurants7Info">Located on the roof of the fashionable Marmara Pera hotel, its sublime views over Istanbul include the Hagia Sophia and the Topkapi Palace. With retro chrome furniture and a bar made from wooden railroad ties, Mikla is urban, sleek and stylish. The unique menu reflects the
+        Turkish-Scandinavian background of Chef-Owner Mehmet Gürs, who pioneered the contemporary restaurant scene in Istanbul. Gürs skillfully merges Turkish and Scandinavian cooking techniques, producing
+        delicacies such as raw grouper with olives and lemon, and a Turkish coffee vanilla slice with raspberry sorbet. The roof terrace bar of Mamara Pera is perfect for pre-dinner drinks. Take in soft jasmine scents and sip on a generously measured martini as you watch the sun set on this historic city.</string>
+    <string name="restaurants7Address">The Marmara Pera, Meşrutiyet Caddesi 15, 34430, Beyoğlu, İstanbul</string>
+    <string name="restaurants7Google">geo:41.031004, 28.974175</string>
+    <string name="restaurants7Call">00 90 212 293 5656</string>
+
+
+
+    <string name="monuments1">Manas</string>
+    <string name="monuments1District">Sütlüce</string>
+    <string name="monuments1Info">The Manas statue – the main national hero of the Kyrgyz people was opened in Sütlüce neighbourhood of Istanbul, which would further strengthen the friendship between Turkey and Kyrgyzstan.
+        Zheenbekov noted that it is a great honor for the Kyrgyz people to establish a monument to Manas in Istanbul. The epic with a volume of 500 thousand lines is a great wealth for world literature."Since 1991, when our country gained independence, to this day the friendly Turkish people continue to help us.
+        Turkey was one of the first to recognize the independence of Kyrgyzstan. Turkey will always remain a close friend and reliable partner for the Kyrgyz people," the head of the Cabinet said.This project is conditioned by the need to deepen cultural and humanitarian cooperation between the Turkish and
+        Kyrgyz peoples, as well as great interest of Turkish scholars and intellectuals to study the unique literary work - the Kyrgyz heroic Manas epic.</string>
+
+    <string name="monuments2">Monument of Liberty</string>
+    <string name="monuments2District">Şişli</string>
+    <string name="monuments2Info">The Monument of Liberty or Monument of Eternal Liberty (Turkish: Hürriyet Anıtı; Ottoman Turkish: Abide-i Hürriyet), located in the Şişli district of Istanbul, Turkey, is a memorial in honor of the soldiers killed defending the Ottoman parliament against reactionary monarchist
+        forces during the 1909 countercoup, most notably in the 31 March Incident.</string>
+
+    <string name="monuments3">Cat Tombili</string>
+    <string name="monuments3District">Kadıköy</string>
+    <string name="monuments3Info">Tombili (birthplace and date unknown, died August 1, 2016 in Istanbul) was a street cat. She was internationally known because of a photograph that shows her reclining on the pavement.[1] The city of Istanbul honored Tombili after her death with a statue.</string>
+
+    <string name="monuments4">Republic Monument</string>
+    <string name="monuments4District">Taksim Square</string>
+    <string name="monuments4Info">The Republic Monument (Turkish: Cumhuriyet Anıtı) is a notable monument located at Taksim Square in Istanbul, Turkey, to commemorate the formation of the Turkish Republic in 1923.</string>
+
+    <string name="monuments5">Column of Constantine</string>
+    <string name="monuments5District">Beyazıt Square</string>
+    <string name="monuments5Info">The Column of Constantine (Turkish: Çemberlitaş Sütunu) is a Roman monumental column built for Roman emperor Constantine the Great to commemorate the dedication of Constantinople on 11 May 330 AD. Built c. 328 AD, it is the oldest Constantinian monument in Istanbul and
+        stood in the centre of the Forum of Constantine. It occupies the second-highest hill of the seven hills of Constantine\'s Nova Roma, the erstwhile Byzantium, and was midway along the Mese odos, the ancient city\'s main thoroughfare.</string>
+
+    <string name="monuments6">Ataturk</string>
+    <string name="monuments6District">Taksim Square</string>
+    <string name="monuments6Info">Kemal Atatürk (or alternatively written as Kamâl Atatürk,[2] Mustafa Kemal Pasha[a] until 1934, commonly referred to as Mustafa Kemal Atatürk;[b] 1881[c] – 10 November 1938), was a Turkish field marshal, revolutionary statesman, author, and the founding father of the
+        Republic of Turkey, serving as its first President from 1923 until his death in 1938. His benevolent dictatorship undertook sweeping progressive reforms, which modernized Turkey into a secular, industrial nation.[3][4][5] Ideologically a secularist and nationalist, his policies and theories became
+        known as Kemalism. Due to his military and political accomplishments, Atatürk is regarded according to studies as one of the greatest leaders of the 20th century.[6]</string>
+
+    <string name="monuments7">Sultan Mehmed II</string>
+    <string name="monuments7District">Fatih Park</string>
+    <string name="monuments7Info">Mehmed II (Ottoman Turkish: محمد ثانى‎, romanized: Meḥmed-i sānī; Modern Turkish: II. Mehmet, pronounced [icinˈdʒi ˈmehmet]; 30 March 1432 – 3 May 1481), commonly known as Mehmed the Conqueror (Turkish: Fatih Sultan Mehmet), was an Ottoman Sultan who ruled from August 1444 to
+        September 1446, and then later from February 1451 to May 1481. In Mehmed II\'s first reign, he defeated the crusade led by John Hunyadi after the Hungarian incursions into his country broke the conditions of the truce Peace of Szeged. When Mehmed II ascended the throne again in 1451 he strengthened the
+        Ottoman navy and made preparations to attack Constantinople. At the age of 21, he conquered Constantinople (modern-day Istanbul) and brought an end to the Byzantine Empire.</string>
 
 </resources>

@@ -4,79 +4,72 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.ImageView;
+import android.widget.ListView;
+import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 import com.example.istanbul.R;
+import com.example.istanbul.ui.main.Place;
+import com.example.istanbul.ui.main.PlaceAdapter;
+
+import java.util.ArrayList;
 
 public class HotelsFragment extends Fragment {
 
-
-    //HashMap<String, List<String>> listItem;
-    //ArrayList<String> listGroup;
-
-    //ContentAdapter adapter;
+    ArrayList<Place> list;
 
     public HotelsFragment() {
         // Required empty public constructor
     }
 
     @Override
-    public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.list_view, container, false);
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        final View rootView = inflater.inflate(R.layout.list_view, container, false);
 
+        fillData();
 
+        PlaceAdapter adapter = new PlaceAdapter(getActivity(), list);
+
+        ListView listView = rootView.findViewById(R.id.list_view);
+
+        listView.setAdapter(adapter);
+
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                TextView textView = view.findViewById(R.id.place_info);
+                TextView  textView2 = view.findViewById(R.id.place_address);
+                TextView  textView3 = view.findViewById(R.id.place_call_number);
+                ImageView imageView = view.findViewById(R.id.info_image);
+                ImageView imageView2 = view.findViewById(R.id.location_image);
+                ImageView imageView3 = view.findViewById(R.id.call_image);
+                //if (/*textView != null &&*/ textView2 != null /*&& imageView != null && imageView2 != null*/) {
+                textView.setVisibility(textView.getVisibility()==View.VISIBLE ? View.GONE : View.VISIBLE);
+                textView2.setVisibility(textView2.getVisibility()==View.VISIBLE ? View.GONE : View.VISIBLE);
+                textView3.setVisibility(textView3.getVisibility()==View.VISIBLE ? View.GONE : View.VISIBLE);
+                imageView.setVisibility(imageView.getVisibility()==View.VISIBLE ? View.GONE : View.VISIBLE);
+                imageView2.setVisibility(imageView2.getVisibility()==View.VISIBLE ? View.GONE : View.VISIBLE);
+                imageView3.setVisibility(imageView3.getVisibility()==View.VISIBLE ? View.GONE : View.VISIBLE);
+                //}
+            }
+        });
 
         return rootView;
     }
 
-    /*private void initListData () {
-        listGroup.add(getString(R.string.places_group1));
-        listGroup.add(getString(R.string.places_group2));
-        listGroup.add(getString(R.string.places_group3));
-        listGroup.add(getString(R.string.places_group4));
-        listGroup.add(getString(R.string.places_group5));
-
-        String[] array;
-
-        List<String> list1 = new ArrayList<>();
-        array = getResources().getStringArray(R.array.places_group1);
-        for  (String item: array) {
-            list1.add(item);
-        }
-
-        List<String> list2 = new ArrayList<>();
-        array = getResources().getStringArray(R.array.places_group1);
-        for  (String item: array) {
-            list1.add(item);
-        }
-
-        List<String> list3 = new ArrayList<>();
-        array = getResources().getStringArray(R.array.places_group1);
-        for  (String item: array) {
-            list1.add(item);
-        }
-
-        List<String> list4 = new ArrayList<>();
-        array = getResources().getStringArray(R.array.places_group1);
-        for  (String item: array) {
-            list1.add(item);
-        }
-
-        List<String> list5 = new ArrayList<>();
-        array = getResources().getStringArray(R.array.places_group1);
-        for  (String item: array) {
-            list1.add(item);
-        }
-
-        listItem.put(listGroup.get(0),list1);
-        listItem.put(listGroup.get(1),list2);
-        listItem.put(listGroup.get(2),list3);
-        listItem.put(listGroup.get(3),list4);
-        listItem.put(listGroup.get(4),list5);
-
-        adapter.notify();
-    }*/
+    public void fillData(){
+        list = new ArrayList<>();
+        list.add(new Place(R.drawable.sumahan_one,getString(R.string.hotels1),getString(R.string.hotels1District), getString(R.string.hotels1Info),getString(R.string.hotels1Address),getString(R.string.hotels1Google),getString(R.string.hotels1Call)));
+        list.add(new Place (R.drawable.george_hotel,getString(R.string.hotels2),getString(R.string.hotels2District), getString(R.string.hotels2Info),getString(R.string.hotels2Address),getString(R.string.hotels2Google),getString(R.string.hotels2Call)));
+        list.add(new Place (R.drawable.shangri_ist,getString(R.string.hotels3),getString(R.string.hotels3District), getString(R.string.hotels3Info),getString(R.string.hotels3Address),getString(R.string.hotels3Google),getString(R.string.hotels3Call)));
+        list.add(new Place (R.drawable.pera_palace,getString(R.string.hotels4),getString(R.string.hotels4District), getString(R.string.hotels4Info),getString(R.string.hotels4Address),getString(R.string.hotels4Google),getString(R.string.hotels4Call)));
+        list.add(new Place (R.drawable.tomtom_hotel,getString(R.string.hotels5),getString(R.string.hotels5District), getString(R.string.hotels5Info),getString(R.string.hotels5Address),getString(R.string.hotels5Google),getString(R.string.hotels5Call)));
+        list.add(new Place (R.drawable.four_seasons,getString(R.string.hotels6),getString(R.string.hotels6District), getString(R.string.hotels6Info),getString(R.string.hotels6Address),getString(R.string.hotels6Google),getString(R.string.hotels6Call)));
+        list.add(new Place (R.drawable.romance_ist,getString(R.string.hotels7),getString(R.string.hotels7District), getString(R.string.hotels7Info),getString(R.string.hotels7Address),getString(R.string.hotels7Google),getString(R.string.hotels7Call)));
+    }
 }

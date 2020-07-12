@@ -77,10 +77,12 @@ public class PlacesFragment extends Fragment {
         list = new ArrayList<>();
         list.add(new Place (R.drawable.hagi_sophia,getString(R.string.topPlaces1),getString(R.string.topPlaces1District), getString(R.string.topPlaces1Info),getString(R.string.topPlaces1Address),getString(R.string.topPlaces1Google)));
         list.add(new Place (R.drawable.blue_mosque,getString(R.string.topPlaces2),getString(R.string.topPlaces2District), getString(R.string.topPlaces2Info),getString(R.string.topPlaces2Address),getString(R.string.topPlaces2Google)));
-        list.add(new Place (R.drawable.topkapi,getString(R.string.topPlaces3),getString(R.string.topPlaces3District), getString(R.string.topPlaces3Info),getString(R.string.topPlaces3Address),getString(R.string.topPlaces3Google)));
+        list.add(new Place (R.drawable.topkapi_one,getString(R.string.topPlaces3),getString(R.string.topPlaces3District), getString(R.string.topPlaces3Info),getString(R.string.topPlaces3Address),getString(R.string.topPlaces3Google)));
         list.add(new Place (R.drawable.grand_bazaar,getString(R.string.topPlaces4),getString(R.string.topPlaces4District), getString(R.string.topPlaces4Info),getString(R.string.topPlaces4Address),getString(R.string.topPlaces4Google)));
-        list.add(new Place (R.drawable.suleymaniye,getString(R.string.topPlaces5),getString(R.string.topPlaces5District), getString(R.string.topPlaces5Info),getString(R.string.topPlaces5Address),getString(R.string.topPlaces5Google)));
+        list.add(new Place (R.drawable.suleymaniye_one,getString(R.string.topPlaces5),getString(R.string.topPlaces5District), getString(R.string.topPlaces5Info),getString(R.string.topPlaces5Address),getString(R.string.topPlaces5Google)));
         list.add(new Place (R.drawable.dolmabahce_palace,getString(R.string.topPlaces6),getString(R.string.topPlaces6District), getString(R.string.topPlaces6Info),getString(R.string.topPlaces6Address),getString(R.string.topPlaces6Google)));
-        list.add(new Place (R.drawable.basilica,getString(R.string.topPlaces7),getString(R.string.topPlaces7District), getString(R.string.topPlaces7Info),getString(R.string.topPlaces7Address),getString(R.string.topPlaces7Google)));
+        list.add(new Place (R.drawable.basilica_one,getString(R.string.topPlaces7),getString(R.string.topPlaces7District), getString(R.string.topPlaces7Info),getString(R.string.topPlaces7Address),getString(R.string.topPlaces7Google)));
     }
+
+
 }

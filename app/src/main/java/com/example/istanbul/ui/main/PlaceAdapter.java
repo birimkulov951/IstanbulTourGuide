@@ -3,6 +3,7 @@ package com.example.istanbul.ui.main;
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -10,11 +11,10 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
 import com.example.istanbul.R;
 
 import java.util.ArrayList;
-
-import static androidx.core.content.ContextCompat.startActivity;
 
 public class PlaceAdapter extends ArrayAdapter<Place> {
 
@@ -47,7 +47,10 @@ private int mColorRecourseId;
         final Place currentPlace = getItem(position);
 
         ImageView placeImage = listItemView.findViewById(R.id.place_image);
-        placeImage.setImageResource(currentPlace.getImageID());
+        //placeImage.setImageResource(currentPlace.getImageID());
+
+        Glide.with(getContext()).load(currentPlace.getImageID()).into(placeImage);
+
 
         TextView placeName = listItemView.findViewById(R.id.place_name);
         placeName.setText(currentPlace.getPlaceName());
@@ -71,7 +74,33 @@ private int mColorRecourseId;
             }
         });
 
+        TextView placeCallNumber = listItemView.findViewById(R.id.place_call_number);
+        placeCallNumber.setText(currentPlace.getTelephone());
+        placeCallNumber.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                Uri tel = Uri.parse("tel:"+spaceDeleter(currentPlace.getTelephone()));
+                Intent callIntent = new Intent(Intent.ACTION_DIAL, tel);
+                getContext().startActivity(callIntent);
+
+            }
+        });
+
         return listItemView;
+    }
+
+    private String spaceDeleter(String str){
+
+        StringBuilder result = new StringBuilder(20);
+
+        for (Character c: str.toCharArray()){
+            if (!Character.isWhitespace(c)){
+                result.append(c);
+            }
+        }
+
+        return result.toString();
     }
 
 }
